@@ -1,0 +1,87 @@
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: poppins, sans-serif;
+
+}
+
+
+ul li{
+    list-style: none;
+    padding:34px;
+}
+li{
+    text-decoration: none;
+    
+}
+nav ul{
+    margin-top: 34px;
+    margin-left: 0px;
+}
+
+
+li a{
+    text-decoration: none;
+    
+}
+
+a{
+    color: black!important;
+}
+ .searchButton
+{
+    border: 2px groove pink;
+    color: pink;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 40px;
+    width:145px;
+    margin:14px;  
+    padding:10px;
+} 
+.headerButtons{
+    display: flex;
+    justify-content: flex-start
+}
+.container{
+    margin:0px;
+    padding:0px;
+}
+img{
+    height: 88px;
+    width: 200px;
+
+}
+.ordervalue{
+    display: flex;
+    justify-content: flex start;
+}
+.heading{
+    color: red;
+}
+.card{
+    display:inline-block;
+    width:25%;
+    margin:8px;
+height:25px;
+}
+
+
+.userbutton
+    {
+        padding-left: 26px;
+    }
+
+.card-group{
+    margin-right:46px;
+    
+
+}
+.textofContent{
+    margin-left: 65px;
+}
+
+

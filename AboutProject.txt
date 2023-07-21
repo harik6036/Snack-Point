@@ -1,0 +1,2 @@
+This is a static website which is still under development.
+this is an online food ordering application where you can order your Favourite food on just one click.
